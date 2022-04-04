@@ -1,0 +1,93 @@
+body{
+	background-color:  #222f3f;
+}
+
+.container{
+	display: block;
+    justify-content: center;
+}
+
+.box{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+img{
+	display: flex;
+    margin: 0 auto 0;
+}
+
+h1{
+	color:  #da084c;
+	display: flex;
+    width: 200px;
+}
+
+h2, p{
+	color:  #fefefe;
+}
+
+label{
+	display: flex;
+	color: #fefefe;
+	margin-top: 15px;
+		
+}
+.paragrafo{
+	display: flex;
+    width: 350px;
+}
+.cad{
+	background-color: #101c28;
+	width: 300px;
+	padding: 20px 30px;
+		
+	border: 1px solid  #868c96;
+	border-radius: 5px;
+
+}
+.feed{
+	width: 400px;
+	height: 300px;
+}
+#enviar{
+	display: flex;
+	width: 70%;
+	height: 35px;
+		
+	border-radius: 10px;
+	background-color: #da084c;
+	color: white;
+
+	margin: auto;
+    		
+    justify-content: center;
+    margin-top: 30px;	
+}
+
+.inp{
+	width: 95%;
+	height: 25px;
+	border-radius: 5px;		
+}
+
+a{
+	display: flex;
+		
+	background-color:  #da084c;
+	width: 220px;
+	height: 40px;
+	text-decoration: none;
+	color: #fefefe;
+	border-radius: 20px;
+	margin: 20px auto;
+
+	justify-content: center;
+    align-items: center;	
+}
+		
+.cent{
+	text-align: center;
+
+}

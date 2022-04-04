@@ -1,0 +1,56 @@
+@media only screen and (max-width: 480px)  {
+
+
+}
+
+@media only screen and (max-width: 767px)  {
+
+.box{
+	display: block;
+	
+}
+.feed{
+	margin: auto;
+	width: 300;
+	height: auto;
+}
+.cad{
+	margin: 5px auto auto auto;
+}
+h1{
+	display: block;
+	margin-top: 10px;
+}	
+
+h1, h2, .paragrafo{
+	width: auto;
+	text-align: justify;
+	text-align: center;
+	
+}	
+.paragrafo{
+	margin-bottom: 20px;
+	
+}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+
+img{
+	margin-top: 50px;
+	
+}	
+	
+	
+	
+}
+
+@media only screen and (min-width: 1200px)  {
+
+	img{
+		margin-top: 100px;
+		
+	}
+
+	
+}
